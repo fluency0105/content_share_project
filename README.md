@@ -1,2 +1,3 @@
 # content_share_project
-内容分享系统-前端，使用vue-element框架
+内容分享系统-前端，使用vue-element框架。
+使用vue-cli搭建项目。
