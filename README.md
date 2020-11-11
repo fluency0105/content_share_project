@@ -1,3 +1,24 @@
-# content_share_project
-内容分享系统-前端，使用vue-element框架。
-使用vue-cli搭建项目。
+# education_project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
